@@ -7,7 +7,7 @@ about:
   head: 65e65af
   archived: false
   latestVersion: v0.6.2
-  collectedAt: 2026-09-04T19:26:14Z
+  collectedAt: 2026-09-04T21:07:21Z
 timeline:
   created: 2025-01-16
   lastCommit: 2026-05-16
@@ -83,5 +83,73 @@ total:
   openIssue: 7
   commit: 111
 ---
+path: /home/runner/.x-repo/github.com/isd-project/isd
+collectedAt: 2026-09-04T21:07:22Z
+loc:
+  Svg:
+    code: 5407
+    comments: 34
+    blanks: 238
+    files: 34
+  Python:
+    code: 2977
+    comments: 432
+    blanks: 473
+    files: 9
+  Css:
+    code: 693
+    comments: 33
+    blanks: 1
+    files: 3
+  Nix:
+    code: 349
+    comments: 117
+    blanks: 40
+    files: 3
+  Json:
+    code: 178
+    comments: 0
+    blanks: 0
+    files: 2
+  Sh:
+    code: 122
+    comments: 14
+    blanks: 33
+    files: 4
+  Toml:
+    code: 112
+    comments: 21
+    blanks: 10
+    files: 1
+  Yaml:
+    code: 80
+    comments: 22
+    blanks: 2
+    files: 1
+  Bitbake:
+    code: 21
+    comments: 4
+    blanks: 0
+    files: 4
+  JavaScript:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 869
+    blanks: 349
+    files: 11
+  Text:
+    code: 0
+    comments: 6735
+    blanks: 355
+    files: 58
+total:
+  code: 9946
+  comments: 8293
+  blanks: 1503
+  files: 131
 ---
 
