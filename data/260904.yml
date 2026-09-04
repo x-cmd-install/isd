@@ -1,11 +1,13 @@
 about:
-  description: isd (interactive systemd) – a better way to work with systemd units
+  description:
+  |
+    isd (interactive systemd) – a better way to work with systemd units
   license: NOASSERTION
   homepage: https://kainctl.github.io/isd/
   head: 65e65af
   archived: false
   latestVersion: v0.6.2
-  collectedAt: 2026-09-04T04:20:43Z
+  collectedAt: 2026-09-04T19:26:14Z
 timeline:
   created: 2025-01-16
   lastCommit: 2026-05-16
@@ -16,17 +18,25 @@ popularity:
   fork: 23
   release: 10
   contributor: 13
-  pullRequest: 4
+  pullRequest: 17
   issue: 46
 language:
   Python: 139294
   Nix: 18942
   Shell: 4450
   Nushell: 2079
-totalLine: 164765
+totalBytes: 164765
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -57,3 +67,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 10
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 10
+  mergedPR: 13
+  openPR: 1
+  closedIssue: 39
+  openIssue: 7
+  commit: 111
+---
+---
+
