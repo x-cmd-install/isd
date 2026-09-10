@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 86923808,
       "digest": "sha256:4fa21fad7712a20932b7a78f3c184f0b8a6b0c8b829de06f52801a51ae982e4e",
-      "download_count": 553,
+      "download_count": 554,
       "created_at": "2026-03-08T20:54:15Z",
       "updated_at": "2026-03-08T20:54:29Z",
       "browser_download_url": "https://github.com/kainctl/isd/releases/download/v0.6.2/isd.x86_64-linux.AppImage"
