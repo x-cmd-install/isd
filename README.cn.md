@@ -12,6 +12,18 @@ isd (interactive systemd) – a better way to work with systemd units
 x install isd
 ```
 
+## 代码规模
+
+合计: **9,940** 行代码（覆盖前 5 种语言、共 **51** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Svg | 5,407 | 34 | 238 | 34 |
+| Python | 2,977 | 432 | 473 | 9 |
+| Css | 693 | 33 | 1 | 3 |
+| Nix | 349 | 117 | 40 | 3 |
+| Json | 178 | 0 | 0 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/isd-project/isd>
@@ -23,13 +35,6 @@ x install isd
 - **最新版本**: `v0.6.2` (2026-03-08)
 - **最近提交**: 2026-05-16
 - **Release 含资产**: 2 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [isd.aarch64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.2/isd.aarch64-linux.AppImage) | 83.0 MiB | `native/linux/arm64` |
-| [isd.x86_64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.2/isd.x86_64-linux.AppImage) | 82.9 MiB | `native/linux/x64` |
 
 ## 流行度
 
@@ -44,20 +49,27 @@ x install isd
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 10 | 0 | 0 | 0 | 0 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **9,940** 行代码（覆盖前 5 种语言、共 **51** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [isd.aarch64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.2/isd.aarch64-linux.AppImage) | 83.0 MiB | `native/linux/arm64` |
+| [isd.x86_64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.2/isd.x86_64-linux.AppImage) | 82.9 MiB | `native/linux/x64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Svg | 5,407 | 34 | 238 | 34 |
-| Python | 2,977 | 432 | 473 | 9 |
-| Css | 693 | 33 | 1 | 3 |
-| Nix | 349 | 117 | 40 | 3 |
-| Json | 178 | 0 | 0 | 2 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/isd) 上共有 **11** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.6.2` | ✅ latest |
+| Nix unstable | `0.6.2` | ✅ latest |
 
 ## 改进这些数据
 
@@ -68,4 +80,4 @@ isd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:18:13Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:13:12Z._
