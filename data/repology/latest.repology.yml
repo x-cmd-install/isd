@@ -25,8 +25,8 @@
   srcname: isd-git
   binname: isd-git
   visiblename: isd-git
-  version: 0.5.1.r2.gd7fa6f9
-  origversion: 0.5.1.r2.gd7fa6f9-4
+  version: 0.6.3.r0.gda51e79
+  origversion: 0.6.3.r0.gda51e79-1
   status: rolling
   summary: Interactive TUI for systemd units (development version)
   maintainers:
