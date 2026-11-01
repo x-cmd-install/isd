@@ -14,15 +14,15 @@ x install isd
 
 ## Code insight
 
-Total: **9,940** lines of code across **51** files in the top 5 languages.
+Total: **10,021** lines of code across **52** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Svg | 5,407 | 34 | 238 | 34 |
-| Python | 2,977 | 432 | 473 | 9 |
-| Css | 693 | 33 | 1 | 3 |
-| Nix | 349 | 117 | 40 | 3 |
-| Json | 178 | 0 | 0 | 2 |
+| Python | 3,026 | 435 | 487 | 10 |
+| Css | 749 | 34 | 2 | 3 |
+| Nix | 328 | 110 | 41 | 3 |
+| Toml | 189 | 22 | 23 | 2 |
 
 ## Source
 
@@ -32,35 +32,35 @@ Total: **9,940** lines of code across **51** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.6.2` (2026-03-08)
-- **Last commit**: 2026-05-16
+- **Latest**: `v0.6.3` (2026-10-31)
+- **Last commit**: 2026-10-31
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 2,152 · **Forks**: 23 · **Open issues**: 46 · **Contributors**: 13
+- **Stars**: 2,152 · **Forks**: 23 · **Open issues**: 46 · **Contributors**: 15
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 13 · **Open PRs**: 1 · **Closed issues**: 39 · **Open issues**: 7 · **Commits**: 111
+- **Releases**: 11 · **Merged PRs**: 13 · **Open PRs**: 0 · **Closed issues**: 41 · **Open issues**: 5 · **Commits**: 118
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-05 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-10 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-02 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-03 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-05 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-06 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-11 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [isd.aarch64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.2/isd.aarch64-linux.AppImage) | 83.0 MiB | `native/linux/arm64` |
-| [isd.x86_64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.2/isd.x86_64-linux.AppImage) | 82.9 MiB | `native/linux/x64` |
+| [isd.aarch64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.3/isd.aarch64-linux.AppImage) | 84.6 MiB | `native/linux/arm64` |
+| [isd.x86_64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.3/isd.x86_64-linux.AppImage) | 84.5 MiB | `native/linux/x64` |
 
 ## Distribution status
 
@@ -80,4 +80,4 @@ Install metadata for isd lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:33:02Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:56:04Z._

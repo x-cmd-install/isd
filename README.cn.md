@@ -14,15 +14,15 @@ x install isd
 
 ## 代码洞察
 
-合计: **9,940** 行代码（覆盖前 5 种语言、共 **51** 个文件）。
+合计: **10,021** 行代码（覆盖前 5 种语言、共 **52** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Svg | 5,407 | 34 | 238 | 34 |
-| Python | 2,977 | 432 | 473 | 9 |
-| Css | 693 | 33 | 1 | 3 |
-| Nix | 349 | 117 | 40 | 3 |
-| Json | 178 | 0 | 0 | 2 |
+| Python | 3,026 | 435 | 487 | 10 |
+| Css | 749 | 34 | 2 | 3 |
+| Nix | 328 | 110 | 41 | 3 |
+| Toml | 189 | 22 | 23 | 2 |
 
 ## 源代码
 
@@ -32,35 +32,35 @@ x install isd
 
 ## 发布
 
-- **最新版本**: `v0.6.2` (2026-03-08)
-- **最近提交**: 2026-05-16
+- **最新版本**: `v0.6.3` (2026-10-31)
+- **最近提交**: 2026-10-31
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 2,152 · **Fork**: 23 · **开放 issue**: 46 · **贡献者**: 13
+- **Star**: 2,152 · **Fork**: 23 · **开放 issue**: 46 · **贡献者**: 15
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 13 · **开放 PR**: 1 · **已关闭 issue**: 39 · **开放 issue**: 7 · **提交数**: 111
+- **发布数**: 11 · **已合并 PR**: 13 · **开放 PR**: 0 · **已关闭 issue**: 41 · **开放 issue**: 5 · **提交数**: 118
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-04 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-05 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-10 | 10 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-02 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-03 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-05 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-06 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-11 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [isd.aarch64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.2/isd.aarch64-linux.AppImage) | 83.0 MiB | `native/linux/arm64` |
-| [isd.x86_64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.2/isd.x86_64-linux.AppImage) | 82.9 MiB | `native/linux/x64` |
+| [isd.aarch64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.3/isd.aarch64-linux.AppImage) | 84.6 MiB | `native/linux/arm64` |
+| [isd.x86_64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.3/isd.x86_64-linux.AppImage) | 84.5 MiB | `native/linux/x64` |
 
 ## 发行版状态
 
@@ -80,4 +80,4 @@ isd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261031.yml` · 2026-10-31T05:33:03Z._
+_数据快照: `data/card/261101.yml` · 2026-11-01T05:56:05Z._
