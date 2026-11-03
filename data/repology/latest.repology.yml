@@ -1,3 +1,25 @@
+- repo: nix_stable_25_05
+  srcname: isd
+  visiblename: isd
+  version: 0.5.1
+  origversion: null
+  status: outdated
+  summary: TUI to interactively work with systemd units
+  maintainers:
+    - gutyina.gergo.2@gmail.com
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: isd
+  visiblename: isd
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: TUI to interactively work with systemd units
+  maintainers:
+    - gutyina.gergo.2@gmail.com
+  licenses:
+    - GPL-3.0-only
 - repo: arch
   subrepo: extra
   srcname: isd
@@ -5,7 +27,7 @@
   visiblename: isd
   version: 0.6.2
   origversion: 0.6.2-1
-  status: newest
+  status: outdated
   summary: An interactive systemd TUI
   licenses:
     - GPL-3.0-or-later
@@ -33,28 +55,6 @@
     - kseistrup@aur
   licenses:
     - GPL-3.0-or-later
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: isd
-  binname: isd
-  visiblename: isd
-  version: 0.6.2
-  origversion: 0.6.2-1
-  status: newest
-  summary: An interactive systemd TUI
-  licenses:
-    - GPL-3.0-or-later
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: isd
-  binname: isd
-  visiblename: isd
-  version: 0.6.2
-  origversion: 0.6.2-1
-  status: newest
-  summary: An interactive systemd TUI
-  licenses:
-    - GPL-3.0-or-later
 - repo: manjaro_unstable
   subrepo: extra
   srcname: isd
@@ -62,38 +62,16 @@
   visiblename: isd
   version: 0.6.2
   origversion: 0.6.2-1
-  status: newest
+  status: outdated
   summary: An interactive systemd TUI
   licenses:
     - GPL-3.0-or-later
-- repo: nix_stable_25_05
-  srcname: isd
-  visiblename: isd
-  version: 0.5.1
-  origversion: null
-  status: outdated
-  summary: TUI to interactively work with systemd units
-  maintainers:
-    - gutyina.gergo.2@gmail.com
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_11
-  srcname: isd
-  visiblename: isd
-  version: 0.6.1
-  origversion: null
-  status: outdated
-  summary: TUI to interactively work with systemd units
-  maintainers:
-    - gutyina.gergo.2@gmail.com
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_26_05
   srcname: isd
   visiblename: isd
   version: 0.6.2
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI to interactively work with systemd units
   maintainers:
     - gutyina.gergo.2@gmail.com
@@ -102,7 +80,7 @@
 - repo: nix_unstable
   srcname: isd
   visiblename: isd
-  version: 0.6.2
+  version: 0.6.3
   origversion: null
   status: newest
   summary: TUI to interactively work with systemd units
@@ -117,7 +95,7 @@
   visiblename: isd
   version: 0.6.2
   origversion: 0.6.2-1
-  status: newest
+  status: outdated
   summary: An interactive systemd TUI
   licenses:
     - GPL-3.0-or-later
