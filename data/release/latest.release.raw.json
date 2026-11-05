@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 88656416,
       "digest": "sha256:05605f496d38a4bcf4468c3c51d22a4d1587c9c3e85b3d7321de15551929105a",
-      "download_count": 31,
+      "download_count": 51,
       "created_at": "2026-10-31T19:05:22Z",
       "updated_at": "2026-10-31T19:05:39Z",
       "browser_download_url": "https://github.com/kainctl/isd/releases/download/v0.6.3/isd.x86_64-linux.AppImage"
@@ -114,8 +114,8 @@
   "body": "A small release that:\r\n\r\n- adapts `isd` to the recent `textual` changes,\r\n- improves ansi themes,\r\n- fixes journalctl output for user services without persistent storage,\r\n- switched to Zensical from MkDocs Material, and\r\n- updates the Python and nix dependencies.\r\n\r\nWith `textual` 8.2.5, upstream now provides `ansi-dark` and `ansi-light` themes that cover\r\nthe use case of the experimental `terminal-derived-theme`.\r\nThis release deprecates `terminal-derived-theme` in favor of those upstream themes.\r\nSelecting the old theme still works, but `isd` now shows a warning notification pointing to the alternatives.\r\n\r\n**Full Changelog**: https://github.com/kainctl/isd/compare/v0.6.2...v0.6.3",
   "reactions": {
     "url": "https://api.github.com/repos/kainctl/isd/releases/430128492/reactions",
-    "total_count": 7,
-    "+1": 2,
+    "total_count": 8,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
