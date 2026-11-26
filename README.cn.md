@@ -38,7 +38,7 @@ x install isd
 
 ## 流行度
 
-- **Star**: 2,160 · **Fork**: 24 · **开放 issue**: 46 · **贡献者**: 15
+- **Star**: 2,163 · **Fork**: 24 · **开放 issue**: 46 · **贡献者**: 15
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install isd
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-27 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -61,15 +61,6 @@ x install isd
 |------|-----:|----------|
 | [isd.aarch64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.3/isd.aarch64-linux.AppImage) | 84.6 MiB | `native/linux/arm64` |
 | [isd.x86_64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.3/isd.x86_64-linux.AppImage) | 84.5 MiB | `native/linux/x64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/isd) 上共有 **11** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `0.6.3` | ✅ latest |
-| Nix unstable | `0.6.3` | ✅ latest |
 
 ## 改进这些数据
 
@@ -80,4 +71,4 @@ isd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T08:35:17Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:19:56Z._

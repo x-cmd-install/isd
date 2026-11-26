@@ -38,7 +38,7 @@ Total: **10,021** lines of code across **52** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,160 · **Forks**: 24 · **Open issues**: 46 · **Contributors**: 15
+- **Stars**: 2,163 · **Forks**: 24 · **Open issues**: 46 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **10,021** lines of code across **52** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-27 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 11 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -61,15 +61,6 @@ Total: **10,021** lines of code across **52** files in the top 5 languages.
 |-------|-----:|--------|
 | [isd.aarch64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.3/isd.aarch64-linux.AppImage) | 84.6 MiB | `native/linux/arm64` |
 | [isd.x86_64-linux.AppImage](https://github.com/isd-project/isd/releases/download/v0.6.3/isd.x86_64-linux.AppImage) | 84.5 MiB | `native/linux/x64` |
-
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/isd). **6** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.6.3` | ✅ latest |
-| Nix unstable | `0.6.3` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +71,4 @@ Install metadata for isd lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:35:16Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:19:56Z._
